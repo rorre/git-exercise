@@ -4,4 +4,4 @@ NPM     : 2106639945
 
 Kelas   : F
 
-Hobi    : Turu
+Hobi    : Tidur
